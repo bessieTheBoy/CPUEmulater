@@ -8,7 +8,7 @@ HOW TO USE:
 
 
 CREDIT TO PyAndy and Dave Poo for inspiring me to do this.<br>
-A couple links to his social media:<br>
+A couple links to their social media:<br>
 PyAndy Twitch: https://www.twitch.tv/pyandy<br>
 PyAny Youtube: https://www.youtube.com/PyAndy<br>
 Dave Poo Youtube: https://www.youtube.com/DavePoo
