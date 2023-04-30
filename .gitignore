@@ -2,3 +2,4 @@ __pycache__
 .idea
 assembler/test.rom
 test.rom
+cpu.exe
