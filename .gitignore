@@ -3,3 +3,4 @@ __pycache__
 assembler/test.rom
 test.rom
 cpu.exe
+assembler/main.jjasm
