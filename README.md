@@ -7,7 +7,8 @@ HOW TO USE:
 3. then run the main.py in the root directory and input the path of the compiled file
 
 
-CREDIT TO PyAndy for inspiring me to do this.<br>
+CREDIT TO PyAndy and Dave Poo for inspiring me to do this.<br>
 A couple links to his social media:<br>
-Twitch: https://www.twitch.tv/pyandy<br>
-Youtube: https://www.youtube.com/PyAndy
+PyAndy Twitch: https://www.twitch.tv/pyandy<br>
+PyAny Youtube: https://www.youtube.com/PyAndy<br>
+Dave Poo Youtube: https://www.youtube.com/DavePoo
