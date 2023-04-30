@@ -1,5 +1,5 @@
-lda: loads a int into the a register (hex: f2)
-ldx: loads a int into the x register (hex: 95)
+lda: loads a int into the a register (hex: f2)\n
+ldx: loads a int into the x register (hex: 95)\n
 ldy: loads a int into the x register (hex: 93)
 ldxm: loads the int in the memory address given into the x register (hex: d9)
 ldym: loads the int in the memory address given into the y register (hex: d8)
