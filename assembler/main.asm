@@ -1,10 +1,7 @@
 in $ 1
 in $ 2
-in $ 3
 ldxm $ 1
 ldym $ 2
-mul $ 5
-ldxm $ 3
-ldym $ 5
-mul $ 6
-rd $ 6
+add $ 3
+rd $ 3
+jmp 0

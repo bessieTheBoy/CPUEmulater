@@ -1,3 +1,5 @@
+import math
+
 class Instruction:
 	def __init__(self, cpu):
 		self.cpu = cpu
@@ -99,9 +101,11 @@ class LDYM(Instruction):
 
 class IN(Instruction):
 	def __init__(self, cpu):
+		self.thing = 0
 		super().__init__(cpu)
 	def process(self, cpu):
-		cpu.mem.write(cpu.arg_reg, int(input("INPUT: ")))
+		exec(f"self.thing = " + input("INPUT: "))
+		cpu.mem.write(cpu.arg_reg, self.thing)
 
 
 class JMP(Instruction):

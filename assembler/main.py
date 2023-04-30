@@ -91,6 +91,7 @@ def assemble(file, output):
 				jjrom.write(f"{value}".encode())
 			case "brk":
 				jjrom.write(b"\xfc")
+				jjrom.write(b"\xff")
 				value = chr(int(line[1]))
 				jjrom.write(f"{value}".encode())
 	file.close()
